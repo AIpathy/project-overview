@@ -81,10 +81,10 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
   <!-- Row 1 -->
   <tr>
     <td style="width: 50%;">
-      <img src="https://github.com/user-attachments/assets/ca21bff7-9243-4ba4-907a-7d065d90fb5d" style="width: 100%; height: auto;">
+      <img src="https://github.com/user-attachments/assets/b8477cc4-c4bd-40ec-9387-44ab27e1c9fd" style="width: 100%; height: auto;">
     </td>
     <td style="width: 50%;">
-      <img src="https://github.com/user-attachments/assets/f44ad4c2-899c-4ee5-a0b4-6dc2ee600c19" style="width: 100%; height: auto;">
+      <img src="https://github.com/user-attachments/assets/fb5cce50-90bd-430c-a465-7f60babadfbf" style="width: 100%; height: auto;">
     </td>
   </tr>
   </table>
