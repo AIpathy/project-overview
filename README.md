@@ -18,16 +18,17 @@
 <details>
   <summary><h1>👥 Takım Üyeleri</h1></summary>
  
-|    | <div align="center">İsim</div>   | <div align="center">Rol</div>  | <div align="center">İletişim</div>     |
+|    | <div align="center">İsim</div> | <div align="center">Rol</div> | <div align="center">İletişim</div> |
 | :-----------: | :---------- | :---------- | :----------: |
-|  ![Dilberhoto]()  | Dilber Kartal     | Scrum Master     |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/dilberkartal/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)]([https://github.com/kullanici-adiniz](https://github.com/dilberkrtl)) |
-|  ![SamedPhoto]()  | Samed Tevin     | Product Owner     | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/samedtevin/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)]([https://github.com/kullanici-adiniz](https://github.com/samedTevin)) |
-|  ![BengüPhoto]()  | Bengü Barış Balkan      | Developer      |  [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/bengu-baris-balkan-a17231236/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)]([https://github.com/kullanici-adiniz](https://github.com/BenguBarisBalkan)) |
-|  ![ElifPhoto]()   | Elif Nur Arslançelik      | Developer     |    [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)]([https://github.com/kullanici-adiniz](https://github.com/elifarslancelik)) |
-|  ![SelinPhoto]()  | Selin Demir      | Developer     |    [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/selin-demir-961883218/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)]([https://github.com/kullanici-adiniz](https://github.com/Seliin366Seliin366)) |
+| <img src="https://github.com/user-attachments/assets/2872bf8d-d092-4535-ac7d-e2e1a95d50cd" width="80" height="80"/> | Dilber Kartal | Scrum Master | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/dilberkartal/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/dilberkrtl) |
+| <img src="https://github.com/user-attachments/assets/YOUR-SAMED-PHOTO" width="80" height="80"/> | Samed Tevin | Product Owner | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/samedtevin/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/samedTevin) |
+| <img src="https://github.com/user-attachments/assets/9797faa1-2d9a-42bd-b8fa-b8f443bf1cdf" width="80" height="80"/> | Bengü Barış Balkan | Developer | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/bengu-baris-balkan-a17231236/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/BenguBarisBalkan) |
+| <img src="https://github.com/user-attachments/assets/fd8a0e16-f6e7-4bb3-8567-b6288d296de0" width="80" height="80"/> | Elif Nur Arslançelik | Developer | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/elifarslancelik) |
+| <img src="https://github.com/user-attachments/assets/251695e2-db79-450a-8ecf-f76cf4e51bf0" width="80" height="80"/> | Selin Demir | Developer | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/selin-demir-961883218/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Seliin366Seliin366) |
 </details>
 
 ---
+
 <details>
   <summary><h1>📌 GENEL BİLGİLER</h1></summary>
 
@@ -340,13 +341,41 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
     <summary><h2>Ekran Görüntüleri</h2></summary>
 
 ### Ana Sayfa
-![Anasayfa]()
+<table style="width: 100%; border-spacing: 24px; text-align: center;">
+
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/a634f112-6fbe-4ac3-b7bc-8a79f860accf" style="width: 100%; height: auto;">
+      <p>Anasayfa 1</p>
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/8954e3e5-2760-43c6-abbc-892b500e831c" style="width: 100%; height: auto;">
+      <p>Anasayfa 2</p>
+    </td>
+        <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/6f3b1a97-117a-4d01-bac7-3a09df74b86e" style="width: 100%; height: auto;">
+      <p>Anasayfa 3</p>
+    </td>
+  </tr>
+</table>
+
+---
+### Giriş Yap Sayfası
+![login](https://github.com/user-attachments/assets/8154cc5b-0c21-4803-90b8-edd21ae33da9)
+
+---
+### Kullanıcı Sayfası
+![kullanıcı_page](https://github.com/user-attachments/assets/ec7a11c6-6953-41bd-ae9c-685b0e90d1e8)
+
 ---
 ### Doktor Sayfası
-![Doktor Sayfası]()
+![doktor_page](https://github.com/user-attachments/assets/1d65067a-ec01-4116-acad-76c142f11352)
+
 ---
-### Ayarlar Sayfası
-![Ayarlar Sayfası]()
+### Logo
+![logo](https://github.com/user-attachments/assets/e692cb15-8d6a-41e7-99d7-8f6143784f7c)
+
   
 </details>
 
