@@ -395,8 +395,14 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
   </tr>
   </table>
   </details>
-
+  
 ---
+<details>
+      <summary><h2>Sprint 1 Daily Scrum</h2></summary>
+- Daily scrum ekran görüntüleri: https://drive.google.com/drive/folders/1V2aDpiHToAQtLAmg0jeQKVFUCjDs7rAk?usp=sharing
+
+  ---
+
   <details>
     <summary><h2>📉 Burndown Grafikleri</h2></summary>
 
