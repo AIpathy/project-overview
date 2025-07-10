@@ -422,15 +422,15 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
 - Ürün tanımı, vizyonu ve amacı netleştirildi ve dökümantasyon haline getirildi.
 - Ürün için hedef kitle tanımlandı (ör: genç yetişkin bireyler, mental destek arayan kullanıcılar) ve belgeye aktarıldı.
 - Kullanıcı ihtiyaçlarını temsil eden **persona**(lar) oluşturuldu ve dokümante edildi.
-- Takım içi roller netleştirildi: ML (Selin & Sen), Frontend (Sen), Backend (Sen), Deploy & Testing (Sen).
+- Takım içi roller netleştirildi: ML, Frontend, Backend, Deploy & Testing.
 - GitHub reposu oluşturuldu ve `README.md` içerisine kurulum ve proje bilgileri eklendi.
 
 ---
 
 ### 🧠 Veri Bilimi / ML Çalışmaları
 
-- PHQ-9 ve depresyon tespiti için toplam **3 veri seti** belirlendi *(Selin)*.
-- Veriler temizlendi, eksik veriler kontrol edildi ve kullanılabilir formatta etiketler eklendi *(Selin)*.
+- PHQ-9 ve depresyon tespiti için toplam **3 veri seti** belirlendi.
+- Veriler temizlendi, eksik veriler kontrol edildi ve kullanılabilir formatta etiketler eklendi/
 - Seçilen veri setleri detaylı şekilde incelendi, uygun olmayan veriler elendi.
 - **EDA (Exploratory Data Analysis)** süreci başlatıldı *(devam ediyor)*.
 - STT (Speech-to-Text) altyapısı kuruldu. Türkçe sesli girdiler **ElevenLabs API** ile yazıya dönüştürülüyor.
@@ -636,7 +636,7 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
 <details>
   <summary><h1>📎 DOKÜMANLAR & EKLER</h1></summary>
 
-- [AIpathy.pdf](./AIpathy.pdf)
+- [AIpathy.pdf][AIpathy.pdf](https://github.com/user-attachments/files/21163464/AIpathy.pdf)
 - [ScienceDirect - AI Mental Health](https://www.sciencedirect.com/science/article/pii/S2949916X24000525)
 - [Nature.com - Voice-based ML](https://www.nature.com/articles/s41598-025-00386-8)
 - Kullanıcı Sözleşmesi: `[...]`
@@ -679,7 +679,7 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
 
 ---
 <details>
-  <summary><h1>🏁 SONUÇR</h1></summary>
+  <summary><h1>🏁 SONUÇ</h1></summary>
 
 AIpathy, yapay zeka ile ruh sağlığına empatik yaklaşım sunan yenilikçi bir girişimdir. Bilinçli farkındalık, güvenli öneriler ve doğru yönlendirmeyle herkes için daha sağlıklı bir zihin mümkün.
 </details>
