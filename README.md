@@ -399,9 +399,11 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
 ---
 <details>
       <summary><h2>Sprint 1 Daily Scrum</h2></summary>
-- Daily scrum ekran görüntüleri: https://drive.google.com/drive/folders/1V2aDpiHToAQtLAmg0jeQKVFUCjDs7rAk?usp=sharing
+ Daily scrum ekran görüntüleri: https://drive.google.com/drive/folders/1V2aDpiHToAQtLAmg0jeQKVFUCjDs7rAk?usp=sharing
 
-  ---
+  </details>
+
+---
 
   <details>
     <summary><h2>📉 Burndown Grafikleri</h2></summary>
@@ -413,7 +415,7 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
 ---
 
 
-- **Sprint Notları:**
+**Sprint Notları:**
 ### ✅ Ürün ve Takım Süreci
 
 - Takım ile birlikte ürün fikri beyin fırtınası yapılarak belirlendi.
@@ -510,6 +512,9 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
   * Web ve backend altyapısı büyük ölçüde kuruldu
   * EDA devam ediyor, duygu analizi ve model eğitimi sonraki sprinte kaydırıldı
 
+- **Sprint Katılımcıları:**
+    * Dilber	Kartal, Elif Nur	Arslançelik, Selin	Demir, Bengü Barış	Balkan, Samed	Tevin
+
 - **Sprint Retrospektifi:**
   * ✅ Teknik temel başarıyla atıldı
   * ⏳ EDA tamamlandığında ML tarafı modelleme aşamasına geçebilecek
@@ -524,41 +529,189 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
   ---
 <details>
     <summary><h2>Ekran Görüntüleri</h2></summary>
+  
+  ### Ana Sayfa
+<table style="width: 100%; border-spacing: 24px; text-align: center;">
+
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/ead58d00-bf74-4980-b914-8d5ea452b4e1" style="width: 100%; height: auto;">
+      <p>Anasayfa 1</p>
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/b9fc0a94-9770-435f-b4ac-c0c03f95f30d" style="width: 100%; height: auto;">
+      <p>Anasayfa 2</p>
+    </td>
+        <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/c0fdc178-302f-4010-a06c-ad88ce7d82e1" style="width: 100%; height: auto;">
+      <p>Anasayfa 3</p>
+    </td>
+  </tr>
+</table>
+
+---
+### Giriş Yap Sayfası
+![login](https://github.com/user-attachments/assets/95b99884-5697-4747-8405-66b3ca817e87)
+
+---
+### Şifremi Unuttum Sayfası
+![password](https://github.com/user-attachments/assets/521c1d4f-60ed-461a-aa49-c289877baae4)
+
+---
+### Kayıt Ol Sayfası
+![register](https://github.com/user-attachments/assets/df235558-8234-4e57-9c11-d419357693b8)
+
+---
+### Genel Bakış Sayfası
+![dashboard](https://github.com/user-attachments/assets/2088f0d7-08fa-4f43-a5e0-d3ccf4cadd54)
+
+---
+### Ai Asistan Sayfası
+![ai](https://github.com/user-attachments/assets/b9b722e1-9934-47d4-b2c1-b87d888c7fab)
+
+---
+### Testler Sayfası
+![test](https://github.com/user-attachments/assets/269a6e0e-bd86-4a08-bffc-737208984029)
+
+---
+### Ayarlar Sayfası
+![settings](https://github.com/user-attachments/assets/7fe75acc-f512-404a-b56f-7e06e9d7339a)
+
 </details>
 
 ---
-  <details>
-    <summary><h2>Uygulama Haritası</h2></summary>
+<details>
+      <summary><h2>Sprint 2 Daily Scrum</h2></summary>
+Daily scrum ekran görüntüleri: https://drive.google.com/drive/folders/1rfYZUojwLwtIV_8ZCfEu_0Kug4CaycU4?usp=sharing
 
-![App Flowchart]()
-   
   </details>
-
 
 ---
   <details>
     <summary><h2>📉 Burndown Grafikleri</h2></summary>
 
-![Burndown Chart]()
+![Burndown Chart](https://github.com/user-attachments/assets/f4bd5429-e160-40e2-9c25-c570a1b7ccd3)
+
 
   </details>
 
+
 ---
 
-- **Sprint Notları:**
-   * 
+**Sprint Notları:**
+### 🧭 Ürün ve Planlama Süreçleri
+
+* Web sitesinde yer alacak tüm sayfalar belirlendi ve içerikleri netleştirildi.
+* Uygulama için ürün haritası oluşturuldu.
+* Her sayfa için ön yüz tasarım planı yapıldı.
+* İncelenecek psikolojik testler araştırıldı ve kategorilere ayrıldı.
+* Her test kategorisine ait veri setleri hazırlandı ve içerikleri düzenlendi.
+
+---
+
+### 🎨 Frontend (Ön Yüz) Geliştirmeleri
+
+* Kullanıcı ve doktor dashboard bileşenleri modern ve işlevsel biçimde tasarlandı.
+* Logo ve marka görselleri oluşturularak arayüzle entegre edildi.
+* Testler sayfası kullanıcı dostu şekilde kartlar ve yönlendirme butonlarıyla geliştirildi.
+* Scroll-to-bottom fonksiyonu ve tab geçişleri gibi kullanıcı deneyimini artıran detaylar eklendi.
+* Yapay zeka destekli sohbet arayüzü (chat interface) tasarlandı.
+* Tüm arayüzde UI/UX tasarımları (butonlar, formlar, renkler, tipografi) yenilendi.
+* Profil ve ayarlar sayfalarında görsel ve fonksiyonel iyileştirmeler yapıldı.
+* Mobil/tablet/masaüstü için responsive optimizasyonlar tamamlandı.
+* Kod refactor işlemleriyle okunabilirlik ve sürdürülebilirlik artırıldı.
+* CI/CD entegrasyonu ile otomatik build & deploy sistemleri kuruldu.
+* Güvenlik açıkları (client-side manipulation) giderildi.
+* Performans optimizasyonları ve genel hata ayıklamaları yapıldı.
+
+---
+
+### 🔐 Backend (Arka Yüz) Geliştirmeleri
+
+* JWT ile kimlik doğrulama, oturum yönetimi ve şifreleme altyapısı geliştirildi.
+* Kullanıcı, doktor, analiz ve test gibi temel veri modelleri oluşturuldu.
+* RESTful API endpoint'leri geliştirildi ve Swagger dokümantasyonu hazırlandı.
+* Veritabanı şemaları ve ilişkileri tasarlandı, optimizasyonlar yapıldı.
+* Sequelize, migration, connection pooling ve veri doğrulama süreçleri entegre edildi.
+* Şifre sıfırlama, e-posta güncelleme, doğrulama gibi gelişmiş kullanıcı özellikleri eklendi.
+* Hata yönetimi, validasyon mekanizmaları ve rate limiting güvenlik önlemleri entegre edildi.
+* XSS/CSRF gibi güvenlik açıklarına karşı korumalar uygulandı.
+* Docker & docker-compose ile container tabanlı geliştirme ortamı kuruldu.
+* CI/CD süreçleri backend için de yapılandırıldı.
+* Kod temizliği, refactor ve sürdürülebilirlik iyileştirmeleri yapıldı.
+
+---
+
+### 📊 Veri ve Modelleme Çalışmaları (ML)
+
+* Gönderilen verilerle ilk modeller eğitildi.
+* Farklı veri kaynaklarını işlemek için ML pipeline oluşturuldu.
+* STT (Speech-to-Text) ile Gemini entegrasyonu sağlandı.
+* MP3 ses verilerinden duygu analizi alabilen sistem geliştirildi.
+* STT + duygu analiz modelleri için ilk API yazıldı.
+* Yapay veriler oluşturulup normalize edilerek ön işlemden geçirildi.
+
+---
+
+### ⚙️ Diğer Teknik Geliştirmeler
+
+* Sayfa ve bileşen geçişleri optimize edildi.
+* Şifre sıfırlama, güncelleme ve e-posta yönetim arayüzü geliştirildi.
+* Birim, entegrasyon ve API testleri yazıldı.
+* Qodana ile frontend-backend hata analizi yapıldı ve düzeltmeler sağlandı.
+
+---
  
 - **Sprint İçinde Tamamlanması Beklenen Puan:**
-  * `x` Puan
+  * `275` Puan
+
+- **Sprint İçinde Tamamlanan Puan:**
+  * `275` Puan
 
 - **Sprint Gözden Geçirilmesi:**
-   * 
+
+    * Web sitesinin mimarisi detaylandırıldı, sayfa yapıları netleştirildi.
+    * Psikolojik testler detaylı biçimde sınıflandırıldı, test başlıkları ve içerikleri üretildi.
+    * Yapay zeka modüllerinde duygu analizi sisteminin temel entegrasyonu sağlandı.
+    * STT modeli başarıyla çalıştırıldı, ses kaydından analiz alınmaya başlandı.
+    * Frontend tarafında modern ve kullanıcı dostu test ekranları geliştirildi.
+    * Arayüzler hem işlevsel hem de estetik hale getirildi.
+    * Backend tarafında şifre sıfırlama, kimlik doğrulama ve veri yönetimi modülleri geliştirildi.
+    * Veritabanı yapısı oturtuldu, tüm modellerle entegre edildi.
+    * Otomasyon ve güvenlik açısından tüm platform CI/CD, Docker ve güvenlik önlemleriyle donatıldı.
+    * İlk yapay zeka API’leri çalışır hale getirildi.
+    * Proje teknik temelde işlevsel hale geldi, sonraki sprintte duygu modeli geliştirmesi yapılacak.
 
 - **Sprint Katılımcıları:**
-    * ``
+    * Dilber	Kartal, Elif Nur	Arslançelik, Selin	Demir, Bengü Barış	Balkan, Samed	Tevin
 
 - **Sprint Retrospektifi:**
-   * 
+
+    #### 🔧 **Backend**
+
+     * Yeni test tipleri için `validTypes` ve validasyon yapısına `narsisizm_testi`, `borderline_kisilik_testi` gibi seçenekler eklenecek.
+     * ENUM alanlar güncellenerek veritabanı yapısı esnetilecek.
+     * Test sonuçlarının yorumlanması için yeni analiz fonksiyonları yazılacak.
+
+    #### 🎨 **Frontend**
+
+     * Test sonucu ekranında görsel destekli mini sonuç kutucuğu, altında “Sonuçlarım sayfasına git” yönlendirmesi ile birlikte gösterilecek.
+     * “Diğer Testlere Göz At” ve “Terapistin ile Eşleş” butonları eklenecek.
+     * Scrollable (yatay kaydırmalı) test kutucukları için Swiper.js veya Glide.js gibi kütüphanelerden biri kullanılacak.
+     * Sayfa içerikleri için modern UI/UX bileşenleriyle tasarım güçlendirilecek.
+
+    #### 📄 **İçerik Geliştirmeleri**
+
+     * “Hastalıklar Bilgilendirme”, “Hakkımızda”, “Bize Katılın”, “Nasıl Çalışır”, “Sıkça Sorulan Sorular” gibi sayfaların içerikleri yazılacak ve sistemde kullanılabilir hale getirilecek.
+
+    #### 🛡 **Güvenlik ve Performans**
+
+     * API güvenliği için input kontrolü, rate limit, CORS yapılandırmaları güncellenecek.
+     * Loglama, hata takibi ve sağlık kontrol sistemleri kurulacak.
+     * API’lerde versiyonlama, pagination, caching ve sıralama özellikleri eklenecek.
+     * PM2, Docker, CI/CD ile production ortamına geçiş süreci başlatılacak.
+
 </details>
 
 ----
@@ -600,7 +753,7 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
    * 
 
 - **Sprint Katılımcıları:**
-    * ``
+    * Dilber	Kartal, Elif Nur	Arslançelik, Selin	Demir, Bengü Barış	Balkan, Samed	Tevin
 
 - **Sprint Retrospektifi:**
    * 
@@ -653,7 +806,12 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
 ---
 <details>
   <summary><h1>📱 Sosyal Medya & İletişim</h1></summary>
-  
+- Eğer AIpathy projesiyle ilgileniyorsanız veya iş birliği yapmak isterseniz bize ulaşabilirsiniz:
+
+✉️ 'Mail adresi paylaşılacak'
+
+📱 'Sosyal medya hesapları paylaşılacak.'
+
 <!-- 1. Satır -->
 <div style="margin-bottom: 16px;">
   <a href="https://www.linkedin.com/in/eklenecek-link" target="_blank" style="margin-right: 16px;">
