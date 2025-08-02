@@ -21,7 +21,7 @@
 |    | <div align="center">İsim</div> | <div align="center">Rol</div> | <div align="center">İletişim</div> |
 | :-----------: | :---------- | :---------- | :----------: |
 | <img src="https://github.com/user-attachments/assets/2872bf8d-d092-4535-ac7d-e2e1a95d50cd" width="80" height="80"/> | Dilber Kartal | Scrum Master | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/dilberkartal/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/dilberkrtl) |
-| <img src="https://github.com/user-attachments/assets/YOUR-SAMED-PHOTO" width="80" height="80"/> | Samed Tevin | Product Owner | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/samedtevin/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/samedTevin) |
+| <img src= "https://github.com/user-attachments/assets/5f44b19f-c839-40c0-a2a3-9201622af5b2" width="80" height="80"/> | Samed Tevin | Product Owner | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/samedtevin/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/samedTevin) |
 | <img src="https://github.com/user-attachments/assets/9797faa1-2d9a-42bd-b8fa-b8f443bf1cdf" width="80" height="80"/> | Bengü Barış Balkan | Developer | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/bengu-baris-balkan-a17231236/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/BenguBarisBalkan) |
 | <img src="https://github.com/user-attachments/assets/fd8a0e16-f6e7-4bb3-8567-b6288d296de0" width="80" height="80"/> | Elif Nur Arslançelik | Developer | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/elifarslancelik) |
 | <img src="https://github.com/user-attachments/assets/251695e2-db79-450a-8ecf-f76cf4e51bf0" width="80" height="80"/> | Selin Demir | Developer | [![linkedin](https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a)](https://www.linkedin.com/in/selin-demir-961883218/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Seliin366Seliin366) |
@@ -199,7 +199,7 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
 - **Google Speech-to-Text API**
 - **Elevenlabs API** – Türkçe sesli girdilerin metne çevrilmesi
 
-#### ☁️ Backend ve Veritabanı (Planlanan)
+#### ☁️ Backend ve Veritabanı 
 - **Firebase** *(planlanıyor)*
 - **PostgreSQL** *(planlanıyor)*
 
@@ -800,31 +800,45 @@ Daily scrum ekran görüntüleri: https://drive.google.com/drive/folders/1rfYZUo
 ---
 <details>
  <summary><h1>🌐 Website</h1></summary>
- `Planlanıyor Aipaty Website'
+ `https://aipathy.xyz'
 </details>
 
 ---
 <details>
   <summary><h1>📱 Sosyal Medya & İletişim</h1></summary>
-- Eğer AIpathy projesiyle ilgileniyorsanız veya iş birliği yapmak isterseniz bize ulaşabilirsiniz:
 
-✉️ 'Mail adresi paylaşılacak'
+Eğer AIpathy projesiyle ilgileniyorsanız veya iş birliği yapmak isterseniz bize ulaşabilirsiniz:
 
-📱 'Sosyal medya hesapları paylaşılacak.'
+✉️ info.aipathy@gmail.com
 
-<!-- 1. Satır -->
-<div style="margin-bottom: 16px;">
-  <a href="https://www.linkedin.com/in/eklenecek-link" target="_blank" style="margin-right: 16px;">
-    <img src="https://github.com/user-attachments/assets/3baa645a-33bc-4786-8327-cb0f92356f0a" alt="LinkedIn" width="40" height="40" />
+📱 Sosyal medya hesaplarımız:
+
+<!-- Sosyal Medya İkonları -->
+<div style="display: flex; gap: 16px; align-items: center; margin-top: 10px;">
+
+  <!-- LinkedIn -->
+  <a href="https://tr.linkedin.com/company/aipathy" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
 
-<!-- 2. Satır  -->
-<div>
-  <a href="https://www.instagram.com/eklenecek-link" target="_blank">
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/ai_pathy/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" />
   </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/ai_pathy" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" width="40" height="40" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/profile.php?id=61578951092137" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40" />
+  </a>
+
 </div>
 
+</details>
 ---
 <details>
   <summary><h1>⏩ İLERİ PLANLAR</h1></summary>
