@@ -789,9 +789,7 @@ Daily scrum ekran görüntüleri: https://drive.google.com/drive/folders/1rfYZUo
 <details>
   <summary><h1>📎 DOKÜMANLAR & EKLER</h1></summary>
 
-- [AIpathy.pdf][AIpathy.pdf](https://github.com/user-attachments/files/21163464/AIpathy.pdf)
-- [ScienceDirect - AI Mental Health](https://www.sciencedirect.com/science/article/pii/S2949916X24000525)
-- [Nature.com - Voice-based ML](https://www.nature.com/articles/s41598-025-00386-8)
+- [AIpathy.pdf](https://github.com/user-attachments/files/21163464/AIpathy.pdf)
 - Kullanıcı Sözleşmesi: `[...]`
 - Aydınlatma Metni: `[...]`
 - Açık Rıza Metni: `[...]`
@@ -800,7 +798,7 @@ Daily scrum ekran görüntüleri: https://drive.google.com/drive/folders/1rfYZUo
 ---
 <details>
  <summary><h1>🌐 Website</h1></summary>
- `https://aipathy.xyz'
+ https://aipathy.xyz
 </details>
 
 ---
@@ -827,9 +825,9 @@ Eğer AIpathy projesiyle ilgileniyorsanız veya iş birliği yapmak isterseniz b
   </a>
 
   <!-- X (Twitter) -->
-  <a href="https://x.com/ai_pathy" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X" width="40" height="40" />
-  </a>
+<a href="https://x.com/ai_pathy" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" alt="X" width="40" height="40" />
+</a>
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=61578951092137" target="_blank">
@@ -837,8 +835,8 @@ Eğer AIpathy projesiyle ilgileniyorsanız veya iş birliği yapmak isterseniz b
   </a>
 
 </div>
-
 </details>
+
 ---
 <details>
   <summary><h1>⏩ İLERİ PLANLAR</h1></summary>
