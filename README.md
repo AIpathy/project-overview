@@ -499,7 +499,7 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
 
 ### 🌐 Yayınlama ve Barındırma
 
-- **Alan adı:** `aipathy.ai` domaini satın alındı.
+- **Alan adı:** `aipathy.xyz' ücretsiz sağlandı.
 - **Plesk Panel:** Hosting ve yönetim altyapısı yapılandırıldı.
 - `vite build` sonrası çıkan dosyalar ile proje canlıya alındı.
 
