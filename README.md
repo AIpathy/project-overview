@@ -1199,6 +1199,23 @@ https://github.com/user-attachments/assets/1a2f0ae5-c074-488f-86af-1f7bbf0589d3
 
 ---
 <details>
+  <summary><h1>📂 Kaynak Kod ve Repository Linkleri</h1></summary>
+
+### 🔗 GitHub Proje Depoları
+
+- 🧠 **Makine Öğrenmesi Ve Yapay Zeka **  
+  [https://github.com/AIpathy/ml-model](https://github.com/AIpathy/ml-model)
+
+- 🔧 **Backend**  
+  [https://github.com/AIpathy/backend](https://github.com/AIpathy/backend)
+
+- 🎨 **Frontend**  
+  [https://github.com/AIpathy/frontend](https://github.com/AIpathy/frontend)
+
+</details>
+
+---
+<details>
  <summary><h1>🌐 Website</h1></summary>
  https://aipathy.xyz
 </details>
