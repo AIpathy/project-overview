@@ -178,70 +178,164 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
 <details>
   <summary><h1>⚙️ TEKNİK ALTYAPI VE GELİŞTİRME</h1></summary>
 
-### 🔧 Kullanılan Teknolojiler
-- **Python, JavaScript, HTML, CSS**
+### 🧠 Programlama Dilleri
+- **JavaScript (Node.js)** – Backend geliştirme
+- **Python** – ML ve servis mimarisi
+- **HTML / CSS / JSX** – Arayüz tasarımı
+- **JavaScript (ES6+)** – Modern JS kullanımı
+---
+
+### 🖥️ Frontend Teknolojileri
 - **React.js** – Bileşen tabanlı modern kullanıcı arayüzü geliştirme framework'ü
+- **React Router DOM** – Client-side routing
 - **Vite** – Hızlı geliştirme sunucusu ve build işlemi sağlayan modern web geliştirme aracı
 - **Tailwind CSS** – Utility-first yaklaşımı ile modüler ve özelleştirilebilir CSS framework'ü
+- **Lucide React** – İkon kütüphanesi
+- **PostCSS / Autoprefixer** – CSS işlemleri ve uyumluluk
 - **Google Fonts - Montserrat** – Modern, temiz ve okunabilir yazı tipi
 - **Responsive Design** – Mobil uyumlu, tüm cihazlara optimize edilmiş grid + flex tabanlı arayüz yapısı
+---
 
-#### 🔍 Veri Bilimi ve Makine Öğrenimi
+### ⚙️ Backend Teknolojileri
+- **Express.js** – Node.js için web framework
+- **FastAPI** – Python tabanlı hızlı REST API
+- **Uvicorn** – ASGI sunucusu
+- **MySQL** – Ana veritabanı
+- **mysql2** – Node.js için MySQL sürücüsü
+- **dotenv / python-dotenv** – Ortam değişkenleri
+- **Multer** – Dosya yükleme işlemleri (Node.js)
+- **python-multipart** – Python için dosya yükleme
+---
+
+### 🔐 Güvenlik
+- **bcryptjs** – Şifre hashleme
+- **JWT (jsonwebtoken)** – Token bazlı kimlik doğrulama
+- **Helmet** – Güvenlik başlıkları
+- **CORS** – Cross-origin resource sharing
+- **express-validator / Pydantic** – Input validation
+- **Role-based Access Control** – Yetki tabanlı erişim
+---
+
+### 🧱 Proje Mimarisi
+
+- #### Node.js (Ana API):
+- **MVC Yapısı:** Controller, Route, Middleware, Service, Config
+- **RESTful API Design** – Standart HTTP metodları
+- **JWT Authentication** – Token bazlı oturum kontrolü
+- **Role-based Access Control** – Kullanıcı rollerine göre erişim
+- **Error Handling / Input Validation** – Merkezi hata & veri kontrolü
+
+- #### Python (ML Servisi):
+- **Microservice Architecture** – Bağımsız, ölçeklenebilir yapı
+- **FastAPI + Uvicorn** – Yüksek performanslı servis
+- **Pydantic Models** – Tip doğrulama ve veri işleme
+- **Async/Await** – Asenkron API çağrıları
+- **Model Caching** – Performans optimizasyonu
+- **Memory Management** – Verimli kaynak kullanımı
+---
+
+#### 📡 HTTP & API:
+- **Axios** – Frontend HTTP istekleri
+- **requests** – Python servis içi istekler
+- **RESTful API** – HTTP tabanlı mimari
+---
+  
+#### 🧠 Yapay Zeka, Veri Bilimi ve Makine Öğrenimi
 - **Pandas** – Veri temizleme ve analiz işlemleri için
 - **NumPy** – Sayısal hesaplamalar ve veri manipülasyonu
 - **Matplotlib / Seaborn** – Veri görselleştirme ve EDA (Exploratory Data Analysis)
 - **TextBlob / VADER** – Duygu analizi için doğal dil işleme kütüphaneleri
 - **OpenCV** – Görüntü işleme ve analiz
-- **Scikit-learn** *(planlanıyor)* – ML modeli eğitimi ve test süreçleri
+- **Scikit-learn** – ML modeli eğitimi ve test süreçleri
 - **Jupyter Notebook** – Veri keşfi ve prototipleme için
+---
 
 #### 🗣️ Ses İşleme
-- **Google Speech-to-Text API**
-- **Elevenlabs API** – Türkçe sesli girdilerin metne çevrilmesi
+- **Google Gemini AI (gemini-2.5-flash)** – Metin analizi & NLP
+- **ElevenLabs (scribe_v1)** – Speech-to-text entegrasyonu
+- **Google Speech-to-Text API** – Ses tanıma
+- **Emotion Analysis** – Ses verilerinden duygu tespiti
+---
 
-#### ☁️ Backend ve Veritabanı 
-- **MySQL**
+### 🚢 Deployment & CI/CD
+- **Docker / Docker Compose** – Servis konteynerleştirme
+- **GitHub Actions** – CI/CD ve test pipeline
+- **Nodemon** – Development sunucusu
+- **Plesk** – Hosting paneli
+---
+
+### 🌐 Domain & Sunucu
+- **Main Domain:** [https://aipathy.xyz](https://aipathy.xyz)
+- **ML Servis Domain:** [https://ml.aipathy.xyz](https://ml.aipathy.xyz)
+- **Provider:** Sercan Arga (Teşekkürler)
+- **Kontrol Paneli:** Plesk Web Hosting
+---
 
 #### 🤖 Yapay Zeka Destekleyici
 - **Gemini AI** – Analiz sürecinde destekleyici API olarak düşünülüyor
+---
+
+### 🔮 Planlanan Geliştirmeler
+- **Text-to-Speech** – Gerçek zamanlı AI sesli sohbet
+- **Test Bazlı Konuşma** – PHQ-9 sonuçlarına göre sohbet bağlamı
+- **Multi-language Support** – Çoklu dil desteği
+- **Model Retraining** – Otomatik model güncelleme
+- **Advanced Analytics** – Gelişmiş kullanıcı & test analizleri
 </details>
 
 ---
 <details>
   <summary><h1>🧪 TEST SÜREÇLERİ</h1></summary>
 
-### 🔬 Test Planı
-
-#### 📊 1. PHQ-9 Test Doğruluk Analizi
+### 📊 PHQ-9 Test Doğruluk Analizi
 - Girdi verisiyle model çıktılarının PHQ-9 skorları ile korelasyonu
 - Farklı kullanıcı tipleri için skor varyasyon analizi
 - Yanıltıcı ya da eksik cevapların sonuçlara etkisi
+---
 
-#### 🎥 2. Kamera/Ses Entegrasyon Testleri
+### 🎥 Kamera/Ses Entegrasyon Testleri
 - Kamera/sesli kayıt başlatma/durdurma senaryoları
 - Ses kaydında gecikme ve senkronizasyon testleri
 - Farklı mikrofon/cihaz kombinasyonlarında stabilite testleri
+---
 
-#### ⚠️ 3. Edge-Case Senaryolar
+### ⚠️ Edge-Case Senaryolar
 - **Aşırı Sessizlik**: Uzun süreli sessizliğin sistem tepkisi (analiz başlatmama, uyarı vb.)
 - **Aşırı Sesli Tepkiler**: Ani yüksek ses/tını değişimlerine karşı sistem kararlılığı
 - **Karmaşık Duygular**: Hem pozitif hem negatif ifade içeren karmaşık ifadeler
 - **Kötü Bağlantı**: Ağ kopması durumunda veri kaybı/test sonlandırma mantığı
 - **Boş/Kısa Yanıtlar**: Yetersiz veriyle analiz yapılması durumu
+---
 
-#### 🔁 4. STT (Speech-to-Text) Testleri
+### 🔁 STT (Speech-to-Text) Testleri
 - Türkçe'deki bölgesel aksanlarda doğruluk oranı
 - Arka plan gürültüsünün etkisi
 - Doğruluk yüzdesi hesaplama (WER - Word Error Rate ile)
+---
 
-#### 😊 5. Duygu Analizi Doğruluk Testi
+### 😊 Duygu Analizi Doğruluk Testi
 - TextBlob / VADER çıktılarını manuel etiketli verilerle karşılaştırma
 - Yanıltıcı cümlelerde analiz başarısı ("Sarcasm"/ironi tespiti gibi zayıf senaryolar)
+---
 
-#### 📱 6. UI/UX Kullanılabilirlik Testleri
+### 📱 UI/UX Kullanılabilirlik Testleri
 - Farklı ekran çözünürlüklerinde kullanıcı arayüzü stabilitesi
 - Mobil cihazlarda test akışının geçerliliği
 - Geri bildirim butonları/test sonrası yönlendirme kontrolü
+---
+
+### 🔧 Otomasyon ve Test Araçları
+#### 🧪 Frontend Test Araçları
+- **Vitest** – React bileşenleri testleri
+- **@testing-library/react & jest-dom** – UI etkileşimlerinin test edilmesi
+
+#### 🧪 Backend Test Frameworkleri
+- **Jest** – Node.js için test framework
+- **Supertest** *(önerilen)* – Express API endpoint testleri
+
+#### 🔄 CI/CD Test Otomasyonu
+- **GitHub Actions** – Push sonrası otomatik test koşumu
+- Build, test ve deploy işlemlerinde otomatik kontrol
 </details>
 
 ---
