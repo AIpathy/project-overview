@@ -1,5 +1,3 @@
-# AIPATHY
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4664d23e-f88c-4e9d-abd6-8cc3c7cbd031" alt="logo" />
 </p>
@@ -37,7 +35,8 @@
 *(Empathy kavramından ilham alınarak türetilmiştir)*
 
 ### 🧠 Ürün Logosu
-`[...]` <!-- Örn: ![AIpathy Logo](assets/logo.png) -->
+<img width="1024" height="428" alt="logo_SON" src="https://github.com/user-attachments/assets/d6f43d0e-03bf-4a8e-bcd3-901ab27a6a0f" />
+
 
 ### 📘 Ürün Açıklaması
 AIpathy, bireylerin ruh sağlığını günlük olarak izleyebilecekleri bir web platformudur. Günlük testler, yüz mimik analizi ve sesli konuşma duygu analizi gibi yapay zeka destekli yöntemlerle ruh halini analiz eder. Uygulama kişiye özel etkinlik önerileri sunar ve yüksek risk durumlarında bir sağlık kuruluşuna yönlendirir.
@@ -121,7 +120,8 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
 - Verilerin güvenli saklanması
 
 ### Multi-language Desteği
-`Planlanıyor.` (İlk hedef: Türkçe + İngilizce)
+- Türkçe
+- İngilizce `Planlanıyor.`
 
 ---
 
@@ -200,8 +200,7 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
 - **Elevenlabs API** – Türkçe sesli girdilerin metne çevrilmesi
 
 #### ☁️ Backend ve Veritabanı 
-- **Firebase** *(planlanıyor)*
-- **PostgreSQL** *(planlanıyor)*
+- **MySQL**
 
 #### 🤖 Yapay Zeka Destekleyici
 - **Gemini AI** – Analiz sürecinde destekleyici API olarak düşünülüyor
@@ -252,6 +251,12 @@ Sivil hayatta stresli, yoğun, yalnız ve monoton bir yaşam süren bireyler, ge
 
 ### Ürün Vizyon Belgesi
 `AIpathy.pdf` (Yüklenmiş durumda)
+
+---
+
+### App Map
+
+![AIpathyAppMap](https://github.com/user-attachments/assets/d291a14e-8ee4-44f8-84e8-22b281617a59)
 
 ---
 
@@ -687,7 +692,6 @@ Daily scrum ekran görüntüleri: https://drive.google.com/drive/folders/1rfYZUo
     * Dilber	Kartal, Elif Nur	Arslançelik, Selin	Demir, Bengü Barış	Balkan, Samed	Tevin
 
 - **Sprint Retrospektifi:**
-
     #### 🔧 **Backend**
 
      * Yeni test tipleri için `validTypes` ve validasyon yapısına `narsisizm_testi`, `borderline_kisilik_testi` gibi seçenekler eklenecek.
@@ -711,69 +715,372 @@ Daily scrum ekran görüntüleri: https://drive.google.com/drive/folders/1rfYZUo
      * Loglama, hata takibi ve sağlık kontrol sistemleri kurulacak.
      * API’lerde versiyonlama, pagination, caching ve sıralama özellikleri eklenecek.
      * PM2, Docker, CI/CD ile production ortamına geçiş süreci başlatılacak.
-
 </details>
 
 ----
+
 <details>
   <summary><h1>🚀 Sprint 3</h1></summary>
 
   ---
 <details>
     <summary><h2>Ekran Görüntüleri</h2></summary>
-  
+ 
+### Ana Sayfa Sayfası
+<table style="width: 100%; border-spacing: 24px; text-align: center;">
+
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/11cba52b-c610-4e28-9e0a-bb6f44fae27a" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/34e48d58-6bee-4ae1-b339-84098ba3d284" style="width: 100%; height: auto;">
+    </td>
+        <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/89c024ab-619a-498d-8c1c-5ce8d10dfa11" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/b3c8ce9c-137d-4e45-80a5-fbd4d290d730" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/8631ffd7-8ae8-4be1-a310-b6344c760fd0" style="width: 100%; height: auto;">
+    </td>
+      <td style="width: 50%;">
+        <img src="https://github.com/user-attachments/assets/be0ca1ca-5c89-464b-bf95-fc23fe5c9e65" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/81b91f7b-b4ed-4bc2-82cf-dbe94a26c646" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/927fc85c-c3c8-4527-adb8-aac17bfe303b" style="width: 100%; height: auto;">
+    </td>
+        <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/52d6acc4-d92d-4348-8bfd-af83dd2a8b7f" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/4426154f-d06a-485d-8a3f-ae4b86037ac6" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img  <img width="1838" height="895" alt="anasayfa (11)" src="https://github.com/user-attachments/assets/081f9c83-7e49-4d6c-acb6-632e061310ae" />
+    </td>
+  </tr>
+  </table>
+
+---
+### Hastalıklar Sayfası
+<table style="width: 100%; border-spacing: 24px; text-align: center;">
+
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/5749bef0-cea6-4dea-8165-32544ddba0ae" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/2a4532c2-2b69-4acc-bf65-44ba32511710" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
+---
+### Hakkımızda Sayfası
+<table style="width: 100%; border-spacing: 24px; text-align: center;">
+
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/08f9f62a-ee8f-4c71-a7bd-ff500a9529ed" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/3a9a5ecd-680b-451f-8189-e263c1d98453" style="width: 100%; height: auto;">
+    </td>
+        <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/9a04f024-0517-4d73-91b4-37aabcda1b8a" style="width: 100%; height: auto;">
+    </td>
+        <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/396d5afe-bfd6-4e31-a2dd-56ac171dae5e" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/30315ad3-9ed0-451d-ab74-421bf50b6f1c" style="width: 100%; height: auto;">
+    </td>
+        <td style="width: 50%;">
+      <img  src="https://github.com/user-attachments/assets/dfe915f5-d19c-4b13-a481-8fd51076f99a" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
+---
+### Nasıl Çalışır? Sayfası
+<table style="width: 100%; border-spacing: 24px; text-align: center;">
+
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/0c7b1e70-b6ec-4aa0-8ece-08e616815bce" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/bf54d22d-18b3-4768-95de-68f781d23c00" style="width: 100%; height: auto;">
+    </td>
+        <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/7c6816bb-83f5-48a8-9530-70ab4b39ed54" style="width: 100%; height: auto;">
+    </td>        
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/4b1c4978-0697-4763-85f5-df8993f0d52b" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
+---
+### Sıkça Sorulan Sorular Sayfası
+<table style="width: 100%; border-spacing: 24px; text-align: center;">
+
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/2a9346df-bcab-4938-8653-7881b435bfe8" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/7c13e2ac-4684-4371-bed0-a8762afc63e5" style="width: 100%; height: auto;">
+    </td>
+        <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/112fc5aa-7b95-4b31-a02b-0b046d61e398" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
+---
+### Testler Sayfası
+<table style="width: 100%; border-spacing: 24px; text-align: center;">
+
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/706cdd36-2f7d-4ef3-83a2-f695eabc2ebc" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/fad86de7-c124-4104-8fe8-d2745e7b3582" style="width: 100%; height: auto;">
+    </td>
+        <td style="width: 50%;">
+      <img  src="https://github.com/user-attachments/assets/e11cac98-014e-44b7-b2b7-5e83efd77b8b" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
+---
+### Blog Sayfası
+<table style="width: 100%; border-spacing: 24px; text-align: center;">
+
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/3aa58d16-fd0a-4ff3-8061-accd1c9c5f57" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/e2d3dcd9-79df-488e-abe2-f63b259035ee" style="width: 100%; height: auto;">
+  </tr>
+</table>
+
+
+---
+### Giriş - Kayıt Ol Sayfası - Şifremi Unuttum
+<table style="width: 100%; border-spacing: 24px; text-align: center;">
+
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/2e4bb852-953b-426d-9c71-a16048343fa0" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/2be6e262-6b33-4fb2-98c7-5e9ff51fa450" style="width: 100%; height: auto;">
+    </td>
+        <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/07af00fa-ca85-479d-b64f-807321ca5c59" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
+
+---
+### Kullanıcı Paneli Sayfası
+<table style="width: 100%; border-spacing: 24px; text-align: center;">
+
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/bf1e5e2b-181f-4636-bb29-5a872e19b438" style="width: 100%; height: auto;">
+      <p>Kullanıcı Paneli Hastalar Sayfası 1</p>
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/8d61b853-c994-44c8-9cb6-5ace2d03071f" style="width: 100%; height: auto;">
+      <p>Kullanıcı Paneli Testler Sayfası 1</p>
+    </td>
+    <td style="width: 50%;">
+      <img  src="https://github.com/user-attachments/assets/df452939-932a-4adb-9725-0b8e024a280a" style="width: 100%; height: auto;">
+      <p>Kullanıcı Paneli Ai Sohbet Sayfası 1</p>
+    </td>
+  </tr>
+</table>
+
+---
+### Doktor Paneli Sayfası
+<table style="width: 100%; border-spacing: 24px; text-align: center;">
+
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/ddacafb4-30ea-41ec-9e95-00267c72f37d" style="width: 100%; height: auto;">
+      <p>Doktor Paneli Hastalar Sayfası</p>
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/43d28a09-7798-4946-b930-9fc7b3ab438e" style="width: 100%; height: auto;">
+      <p>Doktor Paneli Analitik Sayfası</p>
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/8c62bc6e-1aec-4aa8-be29-697e4e760bc6" style="width: 100%; height: 
+auto;">
+      <p>Doktor Paneli Ai Sohbet Sayfası</p>
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/57601365-86c8-48f6-9b0d-2f87bf84ebc3" style="width: 100%; height: auto;">
+      <p>Doktor Paneli Uyarılar Sayfası</p>
+    </td>
+  </tr>
+</table>
+
+
+---
+### Ayarlar Sayfası
+<table style="width: 100%; border-spacing: 24px; text-align: center;">
+
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/f065d850-1998-4faf-9c90-122036184e3f" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
+
+---
+### Veri Tabanı Kısmı
+<table style="width: 100%; border-spacing: 24px; text-align: center;">
+
+  <!-- Row 1 -->
+  <tr>
+    <td style="width: 50%;">
+      <img src= "https://github.com/user-attachments/assets/55f676b4-05d3-450d-8363-4d319a434920" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img src = "https://github.com/user-attachments/assets/663ff32f-7368-4a8a-ba9f-f5ae265cfad6" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/83977753-47f4-4fec-a28a-7dff4df1bab4" style="width: 100%; height: auto;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github.com/user-attachments/assets/9c8e2ac4-05a0-4028-bd19-79da1b1e33c2" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
+---
 </details>
 
 ---
-  <details>
-    <summary><h2>Uygulama Haritası</h2></summary>
+<details>
+      <summary><h2>Sprint 3 Daily Scrum</h2></summary>
+Daily scrum ekran görüntüleri: https://drive.google.com/drive/folders/1bY7WiM6iaL0W1ZrV7SX0SEFU9XpbAb5V?usp=sharing
 
-![App Flowchart]()
-   
   </details>
-
 
 ---
   <details>
     <summary><h2>📉 Burndown Grafikleri</h2></summary>
+<img width="1838" height="625" alt="sprint3_Burndown" src="https://github.com/user-attachments/assets/4d8c6e53-9ea3-474c-8ea4-f732941e8751" />
 
-![Burndown Chart]()
 
   </details>
 
 ---
 
 - **Sprint Notları:**
-   * 
+* API güvenliği kapsamında rate limiting, input validation (express-validator), CORS yapılandırması ve Helmet ile HTTP güvenlik başlıkları eklendi.  
+* Loglama, hata takibi, sağlık kontrolleri ve performans izleme mekanizmaları aktif edildi.  
+* Üretim ortamı PM2, Docker ve CI/CD entegrasyonları ile yapılandırılarak optimize edildi.  
+* API’ye pagination, arama, sıralama, caching ve versiyonlama özellikleri başarıyla eklendi.  
+* Psikolojik test modülleri entegre edilerek sonuç gösterimi ve skor hesaplama sistemleri geliştirildi.  
+* Blog sistemi oluşturularak yazı listeleme, detay sayfası, kategori filtreleme ve popüler içerik özellikleri entegre edildi.  
+* Scikit-learn ile eğitilen modeller, FastAPI üzerinden çalışan backend'e entegre edildi.  
+* Ses analizi modülü geliştirildi; MIME türü kontrolü, maksimum boyut sınırı (10MB) ve duygu analizi entegrasyonu sağlandı.  
+* Dosya yükleme sistemi oluşturuldu ve yüklenen içeriklerin yönetimi `fs` üzerinden sağlandı.  
+* JWT tabanlı kimlik doğrulama, bcryptjs ile şifreleme ve RBAC ile rol tabanlı erişim sistemi kuruldu.  
+* Frontend tarafında test senaryoları yazılarak test yönetimi başlatıldı.  
+* UI/UX revizyonları tamamlandı; gösterge paneli ve genel arayüz iyileştirildi.  
+* Sosyal medya hesapları açılarak tanıtım süreci başlatıldı.  
+* Teknoloji yığını (tech stack), iş modeli (business model) ve uygulama haritası (app map/tree) belgelendi.  
+* Girişime dönüşüm süreci kapsamında yalın kanvas (Lean Canvas) dokümanı hazırlandı.  
+* Uygulama için yeni logo tasarlanarak frontend'e entegre edildi.  
+* Kullanıcı Sözleşmesi, Gizlilik Politikası ve Çerez Politikası hazırlandı.  
+* GitHub deposu proje yapısına uygun olarak düzenlendi.  
+* Demo videosu hazırlanması için planlamalar yapıldı.(ingilizce - Türkçe)
 
 - **Sprint İçinde Tamamlanması Beklenen Puan:**
-  * `x` Puan
+  * `295` Puan
+
+- **Sprint İçinde Tamamlanan Puan:**
+  * `295` Puan
 
 - **Sprint Gözden Geçirilmesi:**
-   * 
+   * Genel olarak sprint hedeflerine ulaşıldı.  
+   * Görsel işleme ve videodan duygu analizi tamamlanamadı, gelecek sprintlere bırakıldı.  
+   * Yeni rahatsızlık testleri ve veri ön işleme başarıyla tamamlandı.  
+   * Doktor paneli işlevsel, ancak hasta-uzman seans entegrasyonu için çalışmalar devam ediyor.
+   * Planlanan modüllerin büyük kısmı başarıyla tamamlandı.  
+   * Görsel işleme ve videodan duygu analizi kısmı sprint içinde tamamlanamadı.  
+   * Mimik analizi ve seans sistemi gibi ileri seviye fonksiyonlar için altyapı çalışmaları başlatıldı.  
+   * Uygulamanın ürünleşmesi ve girişim haline gelmesi yönünde büyük adımlar atıldı (tanıtım sitesi, sosyal medya, yalın kanvas, yasal belgeler).
 
 - **Sprint Katılımcıları:**
     * Dilber	Kartal, Elif Nur	Arslançelik, Selin	Demir, Bengü Barış	Balkan, Samed	Tevin
 
 - **Sprint Retrospektifi:**
-   * 
+   * **İyi:** Teknik altyapı güçlendirildi, ürün kimliği oluşturuldu ve tanıtım faaliyetleri başlatıldı.  
+   * **Zorlayıcı:** Mimik analizi ve görsel işleme süreçlerinde zaman kısıtı yaşandı.  
+   * **Öğrenilenler:** Uygulama sadece teknik değil, aynı zamanda bir girişim olarak da planlanmalı.  
+   * **İyileştirme:** Erken planlama ile eksik kalan analiz modüllerine daha fazla odak sağlanabilir.
 </details>
 
 ----
 
 ![detay](https://github.com/user-attachments/assets/9e2f5692-3ccd-4a4b-bdce-ee5ec3f22085)
 
+----
+<details>
+  <summary><h1>TECH STACK</h1></summary>
+<img width="7104" height="2786" alt="aipathyStack" src="https://github.com/user-attachments/assets/7a81a54d-a8ec-460f-bd12-a53feec224a5" />
+
+</details>
 
 ----
+<details>
+  <summary><h1>LEAN CANVAS</h1></summary>
+<img width="6352" height="4254" alt="AipathyBusiness" src="https://github.com/user-attachments/assets/3d6a1e95-d481-4fd9-bcd0-06e47fdec391" />
+</details>
 
+----
 <details>
   <summary><h1>🖼️ GÖRSELLER & MEDYA</h1></summary>
 
-- Ekran görüntüleri (test ekranı, ses kaydı, analiz ekranı)  
-  `Ekran görüntüleri eklenecek`
-
 - Tanıtım Videosu  
-  `Planlanıyor`
+
+https://github.com/user-attachments/assets/1a2f0ae5-c074-488f-86af-1f7bbf0589d3
+
+
 
 ### 🎨 Tasarım & Marka Renk Paleti
 | Amaç             | Renk Kodları |
@@ -789,10 +1096,11 @@ Daily scrum ekran görüntüleri: https://drive.google.com/drive/folders/1rfYZUo
 <details>
   <summary><h1>📎 DOKÜMANLAR & EKLER</h1></summary>
 
-- [AIpathy.pdf](https://github.com/user-attachments/files/21163464/AIpathy.pdf)
-- Kullanıcı Sözleşmesi: `[...]`
-- Aydınlatma Metni: `[...]`
-- Açık Rıza Metni: `[...]`
+- [AIpathy Dökumanı](https://github.com/user-attachments/files/21163464/AIpathy.pdf)
+- [Gizlilik Sözleşmesi](https://github.com/user-attachments/files/21566715/GIZLILIK.SOZLESMESI.docx)
+- [Kullanıcı Sözleşmesi](https://github.com/user-attachments/files/21566716/KULLANICI.SOZLESMESI.docx)
+- [Çerez Politikası](https://github.com/user-attachments/files/21566717/CEREZ.POLITIKASI.docx)
+
 </details>
 
 ---
@@ -845,6 +1153,14 @@ Eğer AIpathy projesiyle ilgileniyorsanız veya iş birliği yapmak isterseniz b
 * Kendi sesli analiz modelimizin eğitimi  
 * Kullanıcıya özel gelişim grafiklerinin sunulması  
 * Profesyonel danışan eşleştirme sistemi
+* Görsel işleme ve videodan duygu analizi modülünün geliştirilmesi.  
+* Mimik analizi entegrasyonunun tamamlanması ve API ile bağlantısının kurulması.  
+* Psikolog, psikiyatrist gibi uzmanların platforma dahil edilmesi; hasta-uzman seans sistemi geliştirilmesi.  
+* Uzmanlar için profil sayfası ve online seans modülü hazırlanması.  
+* Kullanıcıların seanslarını platform üzerinden güvenli ve kolay şekilde başlatabilmesi.  
+* Sosyal sorumluluk projesi: “Askıda Seans” gibi ücretsiz veya destek amaçlı terapi imkanlarının sunulması.  
+* Sosyal projeler alanının açılarak, destek isteyenlerle destek verenlerin buluşması.
+
 </details>
 
 ---
